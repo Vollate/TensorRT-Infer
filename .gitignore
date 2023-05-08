@@ -35,3 +35,5 @@ objs
 *.exe
 *.out
 *.app
+
+build/
